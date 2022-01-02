@@ -62,7 +62,6 @@ public class Dial2 {
 			case 'Z':
 				count += 10;
 				break;
-
 			}
 		}
 		System.out.println(count);
