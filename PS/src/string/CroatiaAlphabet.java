@@ -33,7 +33,7 @@ public class CroatiaAlphabet {
 							}
 						}
 					}
-					if (str.charAt(i + 1) == '-') {	// 그게 아니라 다다음 값이 - 이면
+					else if (str.charAt(i + 1) == '-') {	// 그게 아니라 다다음 값이 - 이면
 						i++;						// i를 증가 시키세요 ( d- 인 경우 )
 					}
 				}
