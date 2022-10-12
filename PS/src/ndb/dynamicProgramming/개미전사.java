@@ -1,4 +1,4 @@
-package ndb.dynamicPrograming;
+package ndb.dynamicProgramming;
 
 import java.util.Scanner;
 
